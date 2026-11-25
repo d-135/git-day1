@@ -10,3 +10,4 @@
 
 Изменение через Git Extensions
 Изменения на GitHub
+Правка в новой ветке gui-feature
