@@ -11,3 +11,5 @@
 Изменение через Git Extensions
 Изменения на GitHub
 Правка в main
+Правка в новой ветке gui-feature
+
